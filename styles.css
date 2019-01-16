@@ -1,0 +1,41 @@
+body{
+    background: url("https://i.gifer.com/Eio9.gif");
+}
+
+.cirnospeech {
+        display:flex;
+    justify-content:center;
+    color:aqua;
+}
+
+.cirnospeech2  {
+        display:flex;
+    justify-content:center;
+    color:blue;
+}
+
+.cirno { 
+
+    height: 30%;
+    width:  30%;
+border:10px solid blue;
+
+
+}
+
+.cirnocontainer { 
+    display:flex;
+justify-content:center;
+}
+
+.button15{ 
+  display:flex;
+justify-content:center;
+}
+
+
+.hiddentext { 
+    display:flex;
+    justify-content:center;
+    display:none;
+}
